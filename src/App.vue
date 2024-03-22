@@ -3,7 +3,6 @@
     <div>git测试2</div>
     <div>git测试1</div>
     <div>git测试0</div>
-    <div>111111</div>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
