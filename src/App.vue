@@ -1,8 +1,9 @@
 <template>
   <nav>
-    <div>git测试1</div>
+    <div>git测试000</div>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
+    111
     zzzzzz
   </nav>
   <router-view/>
