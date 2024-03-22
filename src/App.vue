@@ -4,6 +4,7 @@
     <div>git测试0</div>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
+    zzzzzz
   </nav>
   <router-view/>
 </template>
