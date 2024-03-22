@@ -1,7 +1,13 @@
 <template>
   <nav>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <div>git测试2</div>
+=======
+    <div>git测试1</div>
+    <div>git测试0</div>
+    <div>111111</div>
+>>>>>>> Stashed changes
 =======
     <div>git测试1</div>
     <div>git测试0</div>
