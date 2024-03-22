@@ -1,8 +1,6 @@
 <template>
   <nav>
     <div>git测试1</div>
-    <input type="text">
-    <input type="text">
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
